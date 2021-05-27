@@ -1,0 +1,38 @@
+[
+    {
+        "image": "assets/images/ITech.png",
+        "field": "IT",
+        "opening": "31072+jobs",
+        "color": "#f3050e6"
+    },
+    {
+        "image": "assets/images/bank.png",
+        "field": "Banking",
+        "opening": "45584+jobs",
+        "color": "#f7cb832"
+    },
+    {
+        "image": "assets/images/market.png",
+        "field": "Marketing",
+        "opening": "28003+jobs",
+        "color": "#ffdbb5a"
+    },
+    {
+        "image": "assets/images/engineer.png",
+        "field": "Engineering",
+        "opening": "16450+jobs",
+        "color": "#ff57520"
+    },
+    {
+        "image": "assets/images/employee.png",
+        "field": "All Jobs",
+        "opening": "16017+jobs",
+        "color": "#f8275f9"
+    },
+    {
+        "image": "assets/images/job@2x.png",
+        "field": "SCM & BPO",
+        "opening": "25875+jobs",
+        "color": "#ff04e8a"
+    }
+]

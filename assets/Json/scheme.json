@@ -1,0 +1,26 @@
+[
+    {
+        "Schedule": "standard",
+        "rate": "$ 16",
+        "duration": "One Month Duration",
+        "jobs": "This plan include 10 Jobs",
+        "post": "Highlighted Post",
+        "days": "Posted for 30 days"
+    },
+    {
+        "Schedule": "Optimium",
+        "rate": "$ 50",
+        "duration": "Three Month Duration",
+        "jobs": "This plan include 30 Jobs",
+        "post": "Highlighted Post",
+        "days": "Posted for 60 days"
+    },
+    {
+        "Schedule": "Premium",
+        "rate": "$ 75",
+        "duration": "Six Month Duration",
+        "jobs": "This plan include 100 Jobs",
+        "post": "Highlighted Post",
+        "days": "Posted for 120 days"
+    }
+]

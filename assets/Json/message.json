@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://images.pexels.com/photos/1056549/pexels-photo-1056549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Selestine",
+        "title": "Company Recruiter,IBM,Chennai",
+        "desc": "3 Active Jobs"
+    },
+    {
+        "image": "https://images.pexels.com/photos/324658/pexels-photo-324658.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Cindrella",
+        "title": "Project Leader,IBM,Canada",
+        "desc": "4 Active Jobs"
+    },
+    {
+        "image": "https://images.pexels.com/photos/32976/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "John Doe",
+        "title": "HR recruiter,IBM,Bangalore",
+        "desc": "2 Active Jobs"
+    },
+    {
+        "image": "https://images.pexels.com/photos/1056549/pexels-photo-1056549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Selestine",
+        "title": "Project Manager,IBM,Chandigarh",
+        "desc": "6 Active Jobs"
+    },
+    {
+        "image": "https://images.pexels.com/photos/573299/pexels-photo-573299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Aara Sittoria",
+        "title": "Company Recruiter,TCS,US",
+        "desc": "2 Active Jobs"
+    }
+]

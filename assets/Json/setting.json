@@ -1,0 +1,26 @@
+[
+    {
+        "designation": "New  Recommended Jobs",
+        "jobDesc": "IT Department Manager",
+        "jobSkill": "Wipro Ltd.,Newyork,USA",
+        "time": "2-5 yrs",
+        "location": "Delhi",
+        "vacancy": "254"
+    },
+    {
+        "designation": "New Jobs From Recruiters",
+        "jobDesc": "Graphics Designer",
+        "jobSkill": "Wipro Ltd.,Manchester.UK",
+        "time": "3-5 yrs",
+        "location": "LosAngeles",
+        "vacancy": "45"
+    },
+    {
+        "designation": "New Update Jobs",
+        "jobDesc": "Android App Developer",
+        "jobSkill": "Wipro Ltd.,BangaloreK",
+        "time": "3-7 yrs",
+        "location": "Chandigarh",
+        "vacancy": "35"
+    }
+]

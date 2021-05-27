@@ -1,0 +1,26 @@
+[
+    {
+        "designation": "New  Recommended Jobs",
+        "jobDesc": "IT Department Manager",
+        "jobSkill": "Wipro Ltd.,Newyork,USA",
+        "time": "2-5 yrs",
+        "location": "Delhi",
+        "vacancy": "62"
+    },
+    {
+        "designation": "New Jobs From Recruiters",
+        "jobDesc": "Graphics Designer",
+        "jobSkill": "Infosys Ltd.,Manchester.UK",
+        "time": "3-5 yrs",
+        "location": "LosAngeles",
+        "vacancy": "32"
+    },
+    {
+        "designation": "New Update Jobs",
+        "jobDesc": "Android App Developer",
+        "jobSkill": "HCL Ltd.,Bangalore",
+        "time": "3-7 yrs",
+        "location": "Chandigarh",
+        "vacancy": "22"
+    }
+]
